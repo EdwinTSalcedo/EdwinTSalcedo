@@ -6,6 +6,6 @@ Currently I'm a Lecturer and Researcher **[@UCB](https://www.ucb.edu.bo/)** buil
 
 ## Find Me 🌎
 
-  - Learn more about what I do + follow some future blog post and solution manuals ✏️ [Website](https://www.edwinsalcedo.com/) #Newversioncomingsoon!
+  - Learn more about what I do + follow some future blog post and solution manuals ✏️ [Website](https://www.edwinsalcedo.com/) 
   - I occasionally tweet about my projects and ideas! 💬 [Twitter](https://twitter.com/EdwinTSalcedo)  
   - When you mean business 💼 [Linkedin](https://www.linkedin.com/in/edwinsalcedo/)  
