@@ -2,7 +2,7 @@
 
 I'm a Systems Engineer from Bolivia who's into IoT, Machine Learning, Research, and Software Engineering. 
 
-Currently I'm a Lecturer and Researcher **[@UCB](https://www.ucb.edu.bo/)** building and scaling machine learning algorithms to the cloud using technologies like, AWS, Kubernetes + Docker, and MeanJS to serve our infrastructure platform! I also focus on building ML algorithms to specifically search for anomalies within sensor data.
+Currently I'm a Lecturer and Researcher **[@UCB](https://www.ucb.edu.bo/)** I focus on building ML algorithms for sensor data and computer vision.
 
 ## Find Me 🌎
 
