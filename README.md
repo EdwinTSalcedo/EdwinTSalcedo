@@ -8,3 +8,5 @@ Currently I'm a Lecturer and Researcher **[@UCB](https://www.ucb.edu.bo/)** I fo
 
   - I occasionally tweet about my projects and ideas! 💬 [Twitter](https://twitter.com/EdwinTSalcedo)  
   - When you mean business 💼 [Linkedin](https://www.linkedin.com/in/edwinsalcedo/)  
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=EdwinTSalcedo)
