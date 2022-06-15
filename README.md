@@ -1,4 +1,4 @@
-# Hey there! 👋 <div style="text-align: right"> ![](https://komarev.com/ghpvc/?username=EdwinTSalcedo) </div>
+# Hey there! 👋 
  
 I'm a Systems Engineer from Bolivia who's into IoT, Machine Learning, Research, and Software Engineering. 
 
@@ -8,3 +8,4 @@ Currently, I'm a Lecturer and Researcher **[@UCB](https://www.ucb.edu.bo/)**, an
 
   - I occasionally tweet about my projects and ideas! 💬 [Twitter](https://twitter.com/EdwinTSalcedo)  
   - When you mean business 💼 [Linkedin](https://www.linkedin.com/in/edwinsalcedo/)  
+  - Your're the visitor # ![](https://komarev.com/ghpvc/?username=EdwinTSalcedo&label=) here, let's get in touch 👨🏻‍💻.
