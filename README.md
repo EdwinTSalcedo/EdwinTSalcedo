@@ -4,9 +4,7 @@ I'm a Systems Engineer from Bolivia who's into IoT, Machine Learning, Research, 
 
 Currently, I'm a Lecturer and Researcher **[@UCB](https://www.ucb.edu.bo/)**, and I focus on building ML algorithms for sensor data and computer vision.
 
-## Find Me 🌎
+## Find Me 🌎 ![](https://komarev.com/ghpvc/?username=EdwinTSalcedo)
 
   - I occasionally tweet about my projects and ideas! 💬 [Twitter](https://twitter.com/EdwinTSalcedo)  
   - When you mean business 💼 [Linkedin](https://www.linkedin.com/in/edwinsalcedo/)  
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=EdwinTSalcedo)
