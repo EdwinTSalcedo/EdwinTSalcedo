@@ -6,6 +6,6 @@ Currently, I'm a Lecturer and Researcher **[@UCB](https://www.ucb.edu.bo/)**, an
 
 ## Find Me 🌎 
 
-  - I occasionally tweet about my projects and ideas! 💬 [Twitter](https://twitter.com/EdwinTSalcedo)  
+  - I occasionally tweet about my projects and ideas 💬 [Twitter](https://twitter.com/EdwinTSalcedo)  
   - When you mean business 💼 [Linkedin](https://www.linkedin.com/in/edwinsalcedo/)  
-  - Your're the ![](https://komarev.com/ghpvc/?username=EdwinTSalcedo&label=) <sup>th</sup> visitor here, let's get in touch 👨🏻‍💻.
+  - Your're the ![](https://komarev.com/ghpvc/?username=EdwinTSalcedo&label=)<sup>th</sup> visitor here, let's get in touch 👨🏻‍💻!
