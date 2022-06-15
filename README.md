@@ -1,4 +1,4 @@
-# Hey there! 👋 ![](https://komarev.com/ghpvc/?username=EdwinTSalcedo)
+# Hey there! &nbsp;👋 ![](https://komarev.com/ghpvc/?username=EdwinTSalcedo)
  
 I'm a Systems Engineer from Bolivia who's into IoT, Machine Learning, Research, and Software Engineering. 
 
