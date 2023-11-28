@@ -8,7 +8,7 @@ Currently, I'm a Lecturer and Researcher Engineer at **[UCB](https://www.ucb.edu
 👔 [linkedin][linkedin] **|** 
 📰 [google scholar][google scholar] **|** 
 🏃 [kaggle][kaggle] **|** 
-🏡 [blog][blog] **|** 
+🏡 [website][website] **|** 
 🐦 [twitter][twitter]
 
 ---
