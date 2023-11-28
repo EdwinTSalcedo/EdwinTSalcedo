@@ -25,5 +25,5 @@ Currently, I'm a Lecturer and Researcher Engineer at **[UCB](https://www.ucb.edu
 [kaggle]: https://www.kaggle.com/edwinsalcedo
 [website]: https://edwinsalcedo.com/
 [twitter]: https://twitter.com/EdwinTSalcedo
-[CUBITAL]: https://arxiv.org/abs/2303.08906v1 
+[CUBITAL]: https://arxiv.org/pdf/2310.18234.pdf
 [CUBITAL github]: https://github.com/EdwinTSalcedo/CUBITAL
