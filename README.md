@@ -1,9 +1,29 @@
 # Hey there! 👋 
  
 I'm a Systems Engineer from Bolivia who's into IoT, Machine Learning, Research, and Software Engineering. 
-Currently, I'm a Lecturer and Researcher at **[UCB](https://www.ucb.edu.bo/)**, and I focus on building ML algorithms for sensor data and computer vision.
+Currently, I'm a Lecturer and Researcher Engineer at **[UCB](https://www.ucb.edu.bo/)**, and I focus on building ML algorithms for sensor data and computer vision.
 
-## Find Me 🌎 
+## Contact with me: 
 
-  - I occasionally tweet about my projects and ideas 💬 [Twitter](https://twitter.com/EdwinTSalcedo)  
-  - When you mean business 💼 [Linkedin](https://www.linkedin.com/in/edwinsalcedo/)  
+👔 [linkedin][linkedin] **|** 
+📰 [google scholar][google scholar] **|** 
+🏃 [kaggle][kaggle] **|** 
+🏡 [blog][blog] **|** 
+🐦 [twitter][twitter]
+
+---
+
+
+### 📑 Latest Research
+<!-- PAPER:START -->
+- 📜 [**Edge AI-Based Vein Detector for Efficient Venipuncture in the Antecubital Fossa**][CUBITAL] in MICAI 2023 :octocat: [github][CUBITAL github]
+
+---
+
+[google scholar]: https://scholar.google.com/citations?user=yI73dIcAAAAJ&hl=en
+[linkedin]: https://www.linkedin.com/in/edwinsalcedo/
+[kaggle]: https://www.kaggle.com/edwinsalcedo
+[website]: https://edwinsalcedo.com/
+[twitter]: https://twitter.com/EdwinTSalcedo
+[CUBITAL]: https://arxiv.org/abs/2303.08906v1 
+[CUBITAL github]: https://github.com/EdwinTSalcedo/CUBITAL
