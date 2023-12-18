@@ -11,14 +11,6 @@ Currently, I'm a Lecturer and Researcher Engineer at **[UCB](https://www.ucb.edu
 🌎 [website][website] **|** 
 🐦 [twitter][twitter]
 
----
-
-
-### 📑 Latest Research
-<!-- PAPER:START -->
-- 📜 [**Edge AI-Based Vein Detector for Efficient Venipuncture in the Antecubital Fossa**][CUBITAL] in MICAI 2023 :octocat: [github][CUBITAL github]
-
-
 [google scholar]: https://scholar.google.com/citations?user=yI73dIcAAAAJ&hl=en
 [linkedin]: https://www.linkedin.com/in/edwinsalcedo/
 [researchscholar]: https://www.researchgate.net/profile/Edwin-Salcedo
