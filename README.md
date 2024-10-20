@@ -16,9 +16,9 @@ Currently, I'm a Lecturer and Researcher Engineer at **[UCB](https://www.ucb.edu
 
 ### 📑 Latest Research
 <!-- PAPER:START -->
-- 📜 [**Distributed Intelligent Video Surveillance for Early Armed Robbery Detection based on Deep Learning**][TheftDetection] in SIBGRAPI 2024 :octocat: [github][TheftDetection github]
+- 📜 [**Distributed Intelligent Video Surveillance for Early Armed Robbery Detection based on Deep Learning**][TheftDetection] in SIBGRAPI 2024 🇧🇷 :octocat: [github][TheftDetection github]
 - 📜 [**Towards Continuous Floating Invasive Plant Removal Using Unmanned Surface Vehicles and Computer Vision**][RecyclingRush] in IEEE Access 2024 :octocat: [github][RecyclingRush github]
-- 📜 [**Edge AI-Based Vein Detector for Efficient Venipuncture in the Antecubital Fossa**][CUBITAL] in MICAI 2023 :octocat: [github][CUBITAL github]
+- 📜 [**Edge AI-Based Vein Detector for Efficient Venipuncture in the Antecubital Fossa**][CUBITAL] in MICAI 2023 🇲🇽 :octocat: [github][CUBITAL github]
 
 
 [google scholar]: https://scholar.google.com/citations?user=yI73dIcAAAAJ&hl=en
