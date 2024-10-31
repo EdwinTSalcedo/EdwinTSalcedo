@@ -8,8 +8,7 @@ Currently, I'm a Lecturer and Researcher Engineer at **[UCB](https://www.ucb.edu
 👔 [linkedin][linkedin] **|** 
 📰 [google scholar][google scholar] **|** 
 👨🏻‍🔬 [researchscholar][researchscholar] **|** 
-🌎 [website][website] **|** 
-🐦 [twitter][twitter]
+🌎 [website][website]
 
 ---
 
@@ -25,7 +24,6 @@ Currently, I'm a Lecturer and Researcher Engineer at **[UCB](https://www.ucb.edu
 [linkedin]: https://www.linkedin.com/in/edwinsalcedo/
 [researchscholar]: https://www.researchgate.net/profile/Edwin-Salcedo
 [website]: https://edwinsalcedo.com/
-[twitter]: https://twitter.com/EdwinTSalcedo
 [CUBITAL]: https://arxiv.org/pdf/2310.18234.pdf
 [CUBITAL github]: https://github.com/EdwinTSalcedo/CUBITAL
 [RecyclingRush]: https://ieeexplore.ieee.org/document/10385136
