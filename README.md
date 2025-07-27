@@ -30,6 +30,6 @@ Currently, I'm a Lecturer and Researcher Engineer at **[UCB](https://www.ucb.edu
 [RecyclingRush github]: https://github.com/EdwinTSalcedo/RecyclingRush 
 [TheftDetection]: https://doi.org/10.1109/SIBGRAPI62404.2024.10716299
 [TheftDetection github]: https://github.com/Coding-Rod/crime_detection
-[ForestProtector]: https://arxiv.org/abs/2501.09926
+[ForestProtector]: https://doi.org/10.1109/ICARA64554.2025.10977677
 [ForestProtector github]: https://github.com/EdwinTSalcedo/ForestProtector 
 
