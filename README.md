@@ -1,7 +1,7 @@
 # Hey there! 👋 
  
 I'm a Systems Engineer from Bolivia who's into IoT, Machine Learning, Research, and Software Engineering. 
-Currently, I'm a Lecturer and Researcher Engineer at **[UCB](https://www.ucb.edu.bo/)**, and I focus on building ML algorithms for sensor data and computer vision.
+Currently, I'm a PhD Researcher at **[QMUL](https://www.qmul.ac.uk/)**, and I focus on building Multimodal AI algorithms for sensor data and computer vision.
 
 ## Contact with me: 
 
