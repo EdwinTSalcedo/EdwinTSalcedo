@@ -1,6 +1,6 @@
 # Hey there! 👋 
  
-I'm a PhD researcher at **[Queen Mary University of London](https://www.qmul.ac.uk/)**, focusing on developing multimodal AI algorithms for computer vision and sensor data applications in healthcare and smart cities.
+I'm a PhD researcher at **[Queen Mary University of London](https://www.qmul.ac.uk/)**, focusing on multimodal AI for computer vision and sensor data applications in healthcare and smart cities. Previously, I worked as a Lecturer in Computer Vision and Research Engineer at Universidad Catolica Boliviana “San Pablo” from 2020 to 2025. 
 
 ## Contact with me: 
 
