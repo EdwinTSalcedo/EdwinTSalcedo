@@ -1,6 +1,6 @@
 # Hey there! 👋 
  
-I'm a PhD Researcher at **[Queen Mary University of London](https://www.qmul.ac.uk/)**, and I focus on building Multimodal AI algorithms for Computer Vision and sensor data.
+I'm a PhD researcher at **[Queen Mary University of London](https://www.qmul.ac.uk/)**, focusing on developing multimodal AI algorithms for computer vision and sensor data applications in healthcare and smart cities.
 
 ## Contact with me: 
 
